@@ -1,0 +1,4 @@
+#hiderow,
+.delete,#print_button{
+  display: none;
+}
